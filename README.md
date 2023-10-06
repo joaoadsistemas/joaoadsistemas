@@ -17,6 +17,5 @@
 
 </div><br/>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoadsistemas)](https://github.com/joaoadsistemas/github-readme-stats)
 
 
