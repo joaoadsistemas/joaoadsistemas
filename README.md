@@ -3,9 +3,7 @@
 ### Olá! Eu sou o João Henrique 👋🏻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/this-joao/)
 
-[!João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoadsistemas)](https://github.com/joaoadsistemas/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajoaoadsistemas&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoadsistemas&hide_progress=true)
 
 ## Tecnologias que uso no dia a dia
 
